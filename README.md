@@ -1,9 +1,14 @@
  # 💫 YO!  Iam Ashwin.
 🔭 I am currently engaged in the development of MEAN stack web applications.
+
 👯 I am enthusiastic about acquiring new knowledge and enhancing my skills.
+
 🤝 I possess a creative mind that allows me to devise unique solutions to problems.
+
 🌱 At present, I am expanding my knowledge in Java, JavaScript, TypeScript, Express, Angular, NodeJs, ReactJs, and Flutter.
+
 💬 I identify myself as an up-and-coming full-stack software developer 😊.
+
 ⚡ Interesting fact - I prefer to work smart, not hard, even though I can be a bit lazy 😁.
 
 
