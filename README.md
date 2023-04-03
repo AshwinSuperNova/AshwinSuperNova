@@ -1,6 +1,5 @@
-# 💫 Hi Iam Ashwin
-🔭 I’m currently working on Developing MEAN stack web applications.<br>👯 I have more interest in learning new things and improve my skills.<br>🤝 I have a crazy mind and i think a lot of different ways to solve a problem.<br>🌱 I’m currently learning Java , JavaScript , TypeScript , Express , Angular , nodeJs , ReactJs , & Flutter.<br>💬 I'm the Emerging Full Stack  Software  Developer 😊.<br>⚡ Fun fact - I am lazy but smart 😁.
-
+# 💫 YO!  Iam Ashwin
+🔭 Currently, I am focused on developing web applications using the MEAN stack. I'm passionate about continuously improving my skills and learning new things. I enjoy approaching problems in unique ways and finding creative solutions. 🤝 Currently, I am exploring a variety of technologies, including Java, JavaScript, TypeScript, Express, Angular, Node.js, React.js, and Flutter. 💬 As a budding full-stack developer, I am excited about my emerging role in the world of software development. ⚡ Interestingly, I consider myself to be smart but also a bit lazy! 😁
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ashwin_238) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-c-76b865267/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCmwdDNGR0whskxo1eGQBCfw) 
